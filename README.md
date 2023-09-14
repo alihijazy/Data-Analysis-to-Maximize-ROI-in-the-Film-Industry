@@ -44,12 +44,19 @@ Contrary to our initial hunch, July outperforms all other months in terms of ROI
 
 Writers and directors can make or break a movie, so we next sought out industry mavens with a track record of producing Mystery+Thriller+Horror films with high ROIs.
 
-### Directors: 
+### Directors & Directors: 
 We filter for writers and directors who have been involved in 3 or more movies and have an average ROI greater than 10.
+
+<p align="center">
+<img src="imgs/top_directors_roi.png" width="700"/>
+</p>
 
 James Wan is our top recommendation for director, as he has 4 movies in our dataset, two of which are Mystery+Thriller+Horror movies and with an average ROI of 23.4. We have two alternative suggestions (Christopher Landon and Pierre Coffin) who also have 4 movies each within our dataset with an ROI of 11.84 and 11.45, respectively.
 
-### Writers:
+<p align="center">
+<img src="imgs/top_writers_roi.png" width="700"/>
+</p>
+
 Oren Peli is our top recommendation for writer, as he has 7 movies in our dataset, averaging an ROI of 27.22, and all of his movies have at least one of the top three genres.
 
 Christopher Landon is a close second, as he also has 6 movies in our dataset, averaging an ROI of 24.9, and all of his movies also have at least one of the top three genres.
