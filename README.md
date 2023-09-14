@@ -80,7 +80,7 @@ Our analysis indicate that combining these four recommendations will maximize th
 
 ├── .gitignore              
 
-├── movie-analysis-eda.pdf
+├── pres-movie-analysis-eda.pdf
 
 ├── movie-analysis-eda.ipynb
 
