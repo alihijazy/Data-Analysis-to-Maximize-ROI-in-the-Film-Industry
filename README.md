@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Maximizing ROI in the Film Industry</h1>
+  <h1>An Exploratory Data Analysis to Maximize ROI in the Film Industry</h1>
 </div>
 
 ## Business Problem
