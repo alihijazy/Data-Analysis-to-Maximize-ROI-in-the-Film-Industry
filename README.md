@@ -76,12 +76,10 @@ Drawing from our analysis of movie trends and performance metrics, we created a 
 Our analysis indicate that combining these four recommendations will maximize the chance that each dollar spent on the movie will yield a high return on investment. This blueprint offers a strategic path forward in the competitive world of film and provides a tailored strategy to turn a movie idea into a financial success.
 
 ## Repository Structure
+```none            
+├── data 
 ├── imgs                   
-
-├── .gitignore              
-
-├── pres-movie-analysis-eda.pdf
-
+├── .gitignore
+├── README.md 
 ├── movie-analysis-eda.ipynb
-
-└── README.md
+└── pres-movie-analysis-eda.pdf
